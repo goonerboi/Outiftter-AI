@@ -5,7 +5,7 @@ core pieces like tops and trousers for functionality. OpenAI’s CLIP model conv
 clothing images into 512-dimensional embeddings, averaged to capture an outfit’s 
 visual and semantic essence, enabling precise style matching. 
 
-Weather integration ensures comfort and suitability—a sharp suit fails in rain, and a t
+Weather integration ensures comfort and suitability, a sharp suit fails in rain, and a t
 shirt falters in cold. The OpenWeatherMap API converts local temperature and 
 precipitation into labels like “rainy,” “cold,” “hot,” or “normal,” encoded via CLIP and 
 merged with user inputs. Manchester’s unpredictable weather, shifting from sunny 
