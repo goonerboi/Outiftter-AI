@@ -16,7 +16,7 @@ Personalised Recommendations
 The system excels in two modes: 
 
 • **Text Input**: Enter a style (e.g., “business casual”) and your city. Outfitter.ai 
-combines this with the weather label—say, “business casual for cold weather”—and 
+combines this with the weather label. say, “business casual for cold weather” and 
 uses FAISS to retrieve the top three outfit matches. 
 
 • **Image Input**: Upload a clothing photo, and CLIP encodes it. This embedding 
